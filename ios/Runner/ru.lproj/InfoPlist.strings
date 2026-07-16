@@ -1,0 +1,7 @@
+/* SADO — localized iOS permission strings (Russian). */
+"CFBundleDisplayName" = "SADO";
+"CFBundleName" = "SADO";
+"NSMicrophoneUsageDescription" = "SADO использует микрофон для оценки речи ребёнка. Запись хранится на устройстве и безопасно отправляется на анализ.";
+"NSSpeechRecognitionUsageDescription" = "SADO использует записанный звук для оценки произношения ребёнка.";
+"NSPhotoLibraryUsageDescription" = "SADO позволяет выбрать изображение для профиля пользователя.";
+"NSUserTrackingUsageDescription" = "SADO не отслеживает вас и не собирает данные для рекламы.";
